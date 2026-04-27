@@ -9,7 +9,7 @@ public class TCP_Client {
   public static void main(String[] args) {
     int port = 10007;
     try {
-      Socket skt = new Socket("172.31.4.147", port);
+      Socket skt = new Socket("172.31.20.103", port);
       OutputStreamWriter oSW = new OutputStreamWriter(skt.getOutputStream());
       PrintWriter outS = new PrintWriter(oSW, true);
 
