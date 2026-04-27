@@ -1,0 +1,9 @@
+{
+  "java.project.referencedLibraries": [
+    "C:/Users/nhaya/Downloads/javafx-sdk-26.0.1/lib/*.jar"
+  ],
+  "java.project.sourcePaths": [
+    "java",
+    "java2"
+  ]
+}
