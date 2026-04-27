@@ -9,6 +9,14 @@
       "projectName": "coding",
       "vmArgs": "--module-path \"C:/Users/nhaya/Downloads/javafx-sdk-26.0.1/lib\" --add-modules javafx.controls",
       "args": "10 9"
+    },
+    {
+      "type": "java",
+      "name": "GraphDrawer2",
+      "request": "launch",
+      "mainClass": "GraphDrawer2",
+      "projectName": "coding",
+      "vmArgs": "--module-path \"C:/Users/nhaya/Downloads/javafx-sdk-26.0.1/lib\" --add-modules javafx.controls"
     }
   ]
 }
